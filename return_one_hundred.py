@@ -27,3 +27,4 @@ def calculate_average_2(numbers2):
     return sum(numbers2), len(numbers2), sum(numbers2)/len(numbers2)
 
 print(calculate_average_2([10,20,30,40]))
+6

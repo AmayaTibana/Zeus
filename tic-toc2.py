@@ -45,3 +45,6 @@ for counter in range(1,5): #NEW CODE: loops for X and O players
     print(board[0])
     print(board[1])
     print(board[2])
+
+
+

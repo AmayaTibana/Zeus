@@ -10,9 +10,13 @@ class Dog:
 
     def fetch(self):
         print(self.name, "went to fetch.")
-my_dog = Dog("Flurry", "Ragdoll", 2, "Black")
 
-print(my_dog.name)
-print(my_dog.breed)
-print(my_dog.age)
+my_dog = Dog("Flurry", "Ragdoll", 2, "Black")
+my_dog1 = Dog("Fluffy","Beagle",2,"Brown")
+my_dog2 = Dog("Mochi","Mutt",5,"White")
+my_dog3 = Dog("Wolfie","Maltese",10,"Black")
+
+print(my_dog2.name)
+print(my_dog3.breed)
+print(my_dog2.age)
 print(my_dog.color)
