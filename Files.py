@@ -1,10 +1,6 @@
-
-years = []
-
-fin = open('years.txt', 'r')
-for line in fin:
-    line = line.replace("\n", "")
-    years.append(line)
-
-print(years)
-                        
+fname = input("enter a name")
+fhand = open(fname)
+count = 0
+for line in fhand:
+    count = count + 1
+print('there were', count, 'lines in', fname)
