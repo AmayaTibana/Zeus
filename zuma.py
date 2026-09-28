@@ -151,4 +151,10 @@ def main():
 #call the program with main()
 main()
     
-    
+def get_hours(message):
+    while True:
+        answer = input(message)
+        hours = float(answer)
+        if hours >= 0:
+            return hours
+        print("Hours can't be negative.")
