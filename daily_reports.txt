@@ -1,0 +1,60 @@
+========================================
+Profit Report for 2026-09-27
+========================================
+Omakase sold:
+  Regular Omakase: 6
+  Premium Omakase: 9
+  Chef's Special Omakase: 8
+Total sales:       $3,550.00
+Total labor cost:  $295.50
+Profit:            $3,254.50
+Good news: the restaurant made money today.
+
+========================================
+Profit Report for 2026-09-27
+========================================
+Omakase sold:
+  Regular Omakase: 6
+  Premium Omakase: 7
+  Chef's Special Omakase: 0
+Total sales:       $1,650.00
+Total labor cost:  $1,602.00
+Profit:            $48.00
+Good news: the restaurant made money today.
+
+========================================
+Profit Report for 2026-09-27
+========================================
+Omakase sold:
+  Regular Omakase: 2
+  Premium Omakase: 3
+  Seasonal Omakase: 0
+Total sales:       $650.00
+Total labor cost:  $102.00
+Profit:            $548.00
+Good news: the restaurant made money today.
+
+========================================
+Profit Report for 2026-09-27
+========================================
+Omakase sold:
+  Regular Omakase: 0
+  Premium Omakase: 22
+  Seasonal Omakase: 0
+Total sales:       $3,300.00
+Total labor cost:  $1,338.00
+Profit:            $1,962.00
+Good news: the restaurant made money today.
+
+========================================
+Profit Report for 2026-09-27
+========================================
+Omakase sold:
+  Regular Omakase: 0
+  Premium Omakase: 0
+  Seasonal Omakase: 0
+Total sales:       $0.00
+Total labor cost:  $7,438.50
+Profit:            $-7,438.50
+Heads up: the restaurant lost money today.
+
