@@ -46,3 +46,4 @@ if __name__ == "__main__":
 
     # Run the ETL pipeline
     etl_pipeline(csv_file_path, database_path, table_name)
+    #Why is not showing the data in the database after running the ETL pipeline?
