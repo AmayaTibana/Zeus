@@ -4,4 +4,4 @@ class ABC:
         i = 34
 
 a = ABC()
-ABC.I = 78
+#commenting out the print statement to avoid printing the value of i
