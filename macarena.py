@@ -1,6 +1,12 @@
 import pandas as pd
 import os
 import sqlite3
+import json
+import csv
+import openpyxl
+import pyarrow
+import fastparquet
+
 database = []
 
 def write_csv():
@@ -51,4 +57,3 @@ def write_excel():
     df.to_xml("database.xml", index=False)
     df.to_parquet("database.parquet", index=False, engine="pyarrow")
 #all possible reading and writing methods for pandas dataframe, including csv, excel, json, html, parquet, feather, stata, sas, msgpack, pickle, hdf, sql, gbq, orc, xml    
-
